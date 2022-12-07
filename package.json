@@ -20,7 +20,7 @@
     "express-promise-router": "^3.0.3",
     "husky": "^2.4.0",
     "jsonwebtoken": "^8.5.1",
-    "lint-staged": "^8.2.0"
+    "lint-staged": "^13.1.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
